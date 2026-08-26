@@ -1,1 +1,10 @@
-day 1 - start linux learning on linuxjourney.com
+start linux learning on linuxjourney.com
+
+Day 1 learning - Linux Command Line
+
+- The Shell = where you type commands or scripts
+- pwd = shows current location
+- cd = move between folders
+- ls = list files in folder
+- touch = create a new file or mark the timestamp
+- file = shows what type a file is
