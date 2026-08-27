@@ -1,0 +1,7 @@
+Day 2 - Linux Command Line continued
+
+- cat = reads and shows file content
+- less = reads large files page by page
+- history = shows all commands you typed before
+- cp = copy a file
+- mv = move or rename a file
