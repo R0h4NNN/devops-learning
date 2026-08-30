@@ -1,0 +1,32 @@
+Day 3 - Linux Command Line Complete + Text Fu Started
+
+COMMAND LINE COMPLETED:
+- pwd = shows current location
+- cd = move between folders
+- ls = list files in folder
+- touch = create a new file
+- file = shows file type
+- cat = read file content
+- less = read large files page by page
+- history = shows all commands typed before
+- cp = copy a file
+- mv = move or rename a file
+- mkdir = create a new folder
+- rm = delete a file
+- find = search for files
+- help = shows help for a command
+- man = detailed manual for a command
+- whatis = one line description of a command
+- alias = create shortcuts for commands
+- exit = exit the terminal
+
+TEXT FU STARTED:
+- stdout = output that goes to screen
+- stdin = input that comes from keyboard
+- stderr = error output
+and how to use them with eachother
+
+KEY CONCEPT:
+Everything in Linux is a file.
+Terminal is how DevOps engineers control servers.
+These commands will be used every single day.
