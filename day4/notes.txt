@@ -1,0 +1,10 @@
+Day 4 - Text Fu Continued
+
+- pipe (|) = send output of one command into another
+- tee = save output to file AND show on screen at same time
+- env = shows all environment variables on your system
+
+Environment variables = settings stored in Linux
+that programs can read and use.
+
+Example: PATH variable tells Linux where to find programs
