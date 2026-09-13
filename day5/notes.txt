@@ -1,0 +1,14 @@
+Day 5 - Text Fu Continued
+
+- cut = cuts out sections from each line of a file
+  Example: cut -d "," -f 1 file.txt
+  cuts first column from a comma separated file
+
+- paste = merges lines of files side by side
+  Example: paste file1.txt file2.txt
+  combines two files column by column
+
+KEY CONCEPT:
+These commands are used to process text data.
+In DevOps you process log files and config files daily.
+cut and paste are basic data extraction tools used ig daily.
